@@ -1,0 +1,15 @@
+/Users/danepetersen/Documents/Projects/net/bin/Debug/net5.0/net.deps.json
+/Users/danepetersen/Documents/Projects/net/bin/Debug/net5.0/net.runtimeconfig.json
+/Users/danepetersen/Documents/Projects/net/bin/Debug/net5.0/net.runtimeconfig.dev.json
+/Users/danepetersen/Documents/Projects/net/bin/Debug/net5.0/net.dll
+/Users/danepetersen/Documents/Projects/net/bin/Debug/net5.0/ref/net.dll
+/Users/danepetersen/Documents/Projects/net/bin/Debug/net5.0/net.pdb
+/Users/danepetersen/Documents/Projects/net/obj/Debug/net5.0/net.csproj.AssemblyReference.cache
+/Users/danepetersen/Documents/Projects/net/obj/Debug/net5.0/net.GeneratedMSBuildEditorConfig.editorconfig
+/Users/danepetersen/Documents/Projects/net/obj/Debug/net5.0/net.AssemblyInfoInputs.cache
+/Users/danepetersen/Documents/Projects/net/obj/Debug/net5.0/net.AssemblyInfo.cs
+/Users/danepetersen/Documents/Projects/net/obj/Debug/net5.0/net.csproj.CoreCompileInputs.cache
+/Users/danepetersen/Documents/Projects/net/obj/Debug/net5.0/net.dll
+/Users/danepetersen/Documents/Projects/net/obj/Debug/net5.0/ref/net.dll
+/Users/danepetersen/Documents/Projects/net/obj/Debug/net5.0/net.pdb
+/Users/danepetersen/Documents/Projects/net/obj/Debug/net5.0/net.genruntimeconfig.cache
